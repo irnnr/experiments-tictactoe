@@ -1,0 +1,14 @@
+{
+  "name": "tictactoe",
+  "version": "0.7.0",
+  "description": "A tic tac toe game",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Ingo Renner",
+  "license": "MIT",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
